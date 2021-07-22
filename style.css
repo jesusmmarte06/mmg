@@ -1,0 +1,22 @@
+.titulo {
+  color: blue;
+  background-color: black;
+}
+footer {
+  background-color: black;
+  color: green;
+  text-align: left;
+}
+body {
+  background-color: red;
+}
+.cuerpo {
+  text-align: center;
+  background-color: black;
+  color: aqua;
+}
+header {
+  color: red;
+  background-color: black;
+  font-family: "Courier New", Courier, monospace;
+}
